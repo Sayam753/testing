@@ -1,5 +1,5 @@
 def add():
-    pass
+    return 10+20
 
 
 def sub():
