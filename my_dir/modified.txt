@@ -1,1 +1,1 @@
-This is a modified file in my_dir
+This is a newly modified file in my_dir
